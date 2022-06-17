@@ -1,6 +1,8 @@
 # 💫About Me :
 💻I'm currently working on Blockchain, focusing on Hyperledger Fabric and Ethereum.
+
 🌱I'm currently learning cybersecurity.
+
 🔭I'm researching on Blockchain for traceability and security.
 
 ## 🌐Socials
