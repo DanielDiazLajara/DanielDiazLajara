@@ -1,5 +1,5 @@
 # 💫About Me :
-💻I'm currently working on Blockchain, focusing on Hyperledger Fabric and Ethereum.
+💻I'm currently working on Full-Stack and Blockchain, focusing on Vue, NodeJS, React and Hyperledger Fabric.
 
 🌱I'm currently learning cybersecurity.
 
